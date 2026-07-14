@@ -1,0 +1,11 @@
+# Python temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local user configuration (coordinates, presets)
+config.json
+
+# IDE / Editors
+.vscode/
+.idea/
