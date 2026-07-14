@@ -1,0 +1,64 @@
+{
+    "MONITOR_INDEX": 2,
+    "GAME_REGION": [
+        0,
+        0,
+        2560,
+        1440
+    ],
+    "AUTO_SCALE": true,
+    "SCALE_FACTOR": 1.0,
+    "THRESHOLD_START_FISHING": 0.55,
+    "THRESHOLD_CATCH_FISH": 0.8,
+    "THRESHOLD_BAR": 0.3,
+    "THRESHOLD_DONE": 0.7,
+    "CONTROL_MODE": "hold",
+    "SWEET_SPOT_MARGIN": 5,
+    "CLICK_TAP_DURATION": 0.04,
+    "CLICK_COOLDOWN": 0.05,
+    "KEY_PRESS_DURATION": 1.0,
+    "LOOP_DELAY_MIN": 0.01,
+    "LOOP_DELAY_MAX": 0.03,
+    "GREEN_HSV_LOW": [
+        45,
+        120,
+        80
+    ],
+    "GREEN_HSV_HIGH": [
+        93,
+        255,
+        255
+    ],
+    "YELLOW_HSV_LOW": [
+        19,
+        80,
+        180
+    ],
+    "YELLOW_HSV_HIGH": [
+        30,
+        255,
+        255
+    ],
+    "BLUE_HSV_LOW": [
+        95,
+        50,
+        50
+    ],
+    "BLUE_HSV_HIGH": [
+        125,
+        255,
+        255
+    ],
+    "DELAY_AFTER_CAST": 6.5,
+    "DELAY_AFTER_BITE": 0.6,
+    "DELAY_AFTER_DONE": 3.5,
+    "CLICK_DONE_X": 2300,
+    "CLICK_DONE_Y": 1100,
+    "BAR_ROI_X1": 816,
+    "BAR_ROI_Y1": 88,
+    "BAR_ROI_X2": 1764,
+    "BAR_ROI_Y2": 108,
+    "RANDOMIZE_DELAYS": true,
+    "RANDOM_STRENGTH": 0.04,
+    "SCREENSHOT_FPS": 300
+}
